@@ -9,6 +9,7 @@
 ## this might be helpful:
 - have git working on your machine
 - install the conda environment provided with this repository (because it takes some time to install!)
+    - activate RISE (for jupyter slideshows): `jupyter-nbextension install rise --py --sys-prefix`
 - EXC:
     - register with the Telegram API and have your credentials ready
     - register with the Twitter API and have your credentials ready
